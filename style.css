@@ -1,0 +1,94 @@
+/* fonts:::: font-family: 'Libre Baskerville', serif; */
+
+body {
+    background: #ffffff;
+    /* font-family: 'Libre Baskerville', serif;  */
+    font-family: Georgia; color: #444;
+    padding-left: 23%;
+    padding-right: 23%;
+}
+header{
+    border-bottom: 1px solid #ccc;
+}
+
+header div{
+    justify-content: space-between;
+}
+h2{
+    margin: 0px;
+}
+h5{
+    margin-top: 20px;
+    margin-bottom: 40px;
+    letter-spacing: 2px;
+    font-style: italic;
+}
+article{
+    margin-top: 40px;
+    padding-bottom: 40px;
+    border-bottom: 1px solid #ccc;
+}
+.flex_container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.title_my_skills{
+    margin-right: 40px;
+}
+.table_my_skills{
+    justify-content: space-between;
+    width: 80%;
+}
+li{
+ line-height: 24px; 
+ border-bottom: 1px solid #ccc;
+ margin-bottom: 10px;
+}
+ul{
+    margin-top: 0px;
+}
+
+
+
+
+.cv_page {
+    margin: 80px auto;
+    background: #f5f5f5;
+    padding: 5%;
+    border-top: 10px solid #666;
+    border-bottom: 5px solid #666;
+}
+
+/* footer */
+a { 
+    color: #990003;
+}
+.name {
+    font-size: 48px;
+    letter-spacing: 3px;
+    color: #333;
+    align-content: center;
+    margin-right: 50px;
+}
+.under_name {
+    letter-spacing: 2px;
+    font-style: italic;
+}
+img{
+    margin-right: 50px;
+}
+
+/* about_me */
+
+
+
+/* my_skills */
+
+
+
+/* work_experience */
+
+
+/* footer */
+.footer_email_phone {
+    text-align: center;
